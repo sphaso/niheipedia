@@ -1,0 +1,23 @@
+---
+title: Chapter 2
+number: 2
+---
+
+[World] Could these falling slugs be infants of the big worms we see in later chapters? [IMAGE NEEDED]
+
+[Character] A new character is introduced. We know they arranged this meeting but we don't know anything else about their relationship. When she calls to arrange the shipment of the kid, the girl says "I got it from Killy", indicating that Killy is known to others.
+
+[World] The female character wears a suit before exiting the elevator. Why?
+
+[Narration] The comments on the kid's genetics make us believe that he's not been infected, possibly that he might have an intact net gene (why else would Killy escort him?). Wouldn't his retrieval mean the end of Killy's quest then? About this, consider the Circular Hypothesis.
+The girl comments on how chromosomes 10 and 11 (11 and 12 in the German edition) show slight mutations.
+
+[Animal] Animals are not often seen in Nihei's works. In Blame! we see manta rays and a dog. This dog however seem to have an implant on its head.
+
+[World] Killy has a book and reads a passage from it aloud. This indicates that Killy can read. The other character's reaction tells us that printed material is unknown. The passage has been translated as "When the Earth, cold and calm, clears, a shadow climbed the hill..." (a figure climed the hill in the Italian translation). If it is a quote from an actual book, I couldn't find it, the tense sequence is however quite peculiar. Killy doesn't know what "Earth" is. We're led to believe that the immense artificial structure in which they live doesn't allow to see the perspective of being on a planet (assuming they are).
+
+[World] "It's getting dark" says the female character looking up. We're then aware that light reaches this part of the world \ universe. Why is it important that it's getting dark?
+
+[Character] Killy doesn't answer to the other character's offer to help him climb the structure. As mentioned, Killy is often emotionless. According to the Circular Hypothesis, this emotionless reaction could be explained by the shock from the loss of the child Killy was supposed to protect.
+
+[Narration] The girl tells Killy that there's a human settlements "3000 levels up". It's safe to assume Killy is moving in that direction from now on

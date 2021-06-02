@@ -1,0 +1,16 @@
+Index:
+<ul>
+    $for(chapters)$
+        <li>
+            <a href="#$number$">$title$</a>
+        </li>
+    $endfor$
+</ul>
+<br><br>
+
+$for(chapters)$
+  <h4 id="#$number$">$title$</h4>
+  <div>
+      $body$
+  </div>
+$endfor$
