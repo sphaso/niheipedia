@@ -10,7 +10,7 @@ stack exec site build
 
 # Get previous files
 git fetch --all
-git checkout -b master --track origin/master
+git checkout -b main --track origin/main
 
 # Overwrite existing files with new files
 cp -a _site/. .
@@ -20,9 +20,9 @@ git add -A
 git commit -m "Publish."
 
 # Push
-git push origin master:master
+git push origin main:main
 
 # Restoration
 git checkout dev
-git branch -D master
+git branch -D main
 git stash pop
