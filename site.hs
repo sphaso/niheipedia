@@ -15,12 +15,6 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "pages/*/commentary/*" $ do
-        route $ setExtension "html"
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/chapter.html" defaultContext
-            >>= relativizeUrls
-
     match "pages/**" $ do
         route $ setExtension "html"
         compile $ pandocCompiler
@@ -33,19 +27,6 @@ main = hakyll $ do
       compile $ pandocCompiler
           >>= loadAndApplyTemplate "templates/page.html" defaultContext
           >>= loadAndApplyTemplate "templates/default.html" defaultContext
-          >>= relativizeUrls
-
-    match "blame/commentary.html" $ do
-      route idRoute
-      compile $ do
-        chapters <- loadAll "commentary/*"
-        let indexCtx =
-                listField "chapters" defaultContext (return chapters) <>
-                defaultContext
-
-        getResourceBody
-          >>= applyAsTemplate indexCtx
-          >>= loadAndApplyTemplate "templates/commentary.html" indexCtx
           >>= relativizeUrls
 
     match "index.html" $ do

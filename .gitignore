@@ -1,2 +1,4 @@
-.stack-work
+.stack-work/
 .stack.yml.lock
+_cache/
+_site/

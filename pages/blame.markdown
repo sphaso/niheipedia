@@ -2,6 +2,6 @@
 title: Blame
 ---
 
-[Commentary](blame/commentary.html)
+[Commentary](blame/commentario.html)
 
 [Bibliography](blame/bibliography.html)

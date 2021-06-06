@@ -2,6 +2,57 @@
 title: Commentary
 ---
 
+## Chapter 1
+
+[World] "Maybe on Earth, maybe in the future". Tsutomu sensei commented in an interview [CITATION NEEDED] that the universe of Blame could be as big as the solar system. If that's so, assuming that these facts happen on Earth wouldn't make sense. At the same time assuming that these facts don't happen on Earth, might make it plausible that they're not happening in the present. Interestingly, this premise is absent in the German master edition.
+
+[Architecture] The opening three panels already show the link between Nihei-mangaka and Nihei-architect. The world of Blame! is in fact introduced in a classic orthogonal projection: it shows the bridge on which Killy is walking from above and from the two sides. This immediately gives a sense of scale. The world is both huge and claustrophibic. The organic shapes of the humans are in stark contrast with the perfect straight edges of the buildings. [IMAGE REFERENCE NEEDED]
+
+[World] In the third panel, notice thunders and manta rays on the ceiling.
+
+[Narration] Blame! is narrated "in medias res". Nothing is explained upfront, the reader is supposed to pick up elements of the story for themself. In this case the kid Killy is walking with is surprised to find another human being. Some humans are after human cells?
+
+[Narration] Is Blame! a circular story? The opening chapter has Killy with a kid with the net gene. At the same time, the manga ends with Killy and a kid.
+
+[Character] Killy shows little emotion or care for others throughout the manga, this is common for male protagonists in other Nihei works (Biomega, Abara). Killy however often shows a slight grin before shooting his gun.
+
+[Weapons] Killy uses his Gravitational Beam Gun for the first time in the manga. The use of extremely powerful and yet small guns is common in Nihei work, to the point of absurdity. For example see Biomega (destroying nuclear weapons with a shotgun) [IMAGE NEEDED]
+
+[Silicon creatures] Two silicon creatures are introduced as antagonists. We still don't know them as such.
+
+[Technology] Technology is capable of recording what one sees and reproducing it through a plug in one's head. One's memory can be stored and saved. This is shared by the first victim of Killy, Killy himself and the Silicon creatures. Similar technology will be displayed in the sci-fi film Nirvana.
+
+[Narration] In the English translation, the man who found Killy says "I'm sure he had a pure structure". In the German and Italian translations, he says his genes were from before the infection.
+
+[Shooting at the lower leg] The same happens in a panel in Abara [IMAGE NEEDED]
+
+[Technology] Killy can use the technology around him, he does so to use a sort of machine gun against the two silicon creatures. He finds a dead person (a soldier?) in a suit. We'll see similar suits in future panels [IMAGE]
+
+[World] The statues on the long stairs resemble horde guards or the faces of silicon \ android people throughout the manga. See also the masks in Knights of Sidonia. The last panels seem to suggest a link between the statues and Killy. [IMAGE NEEDED]
+
+
+## Chapter 2
+
+[World] Could these falling slugs be infants of the big worms we see in later chapters? [IMAGE NEEDED]
+
+[Character] A new character is introduced. We know they arranged this meeting but we don't know anything else about their relationship. When she calls to arrange the shipment of the kid, the girl says "I got it from Killy", indicating that Killy is known to others.
+
+[World] The female character wears a suit before exiting the elevator. Why?
+
+[Narration] The comments on the kid's genetics make us believe that he's not been infected, possibly that he might have an intact net gene (why else would Killy escort him?). Wouldn't his retrieval mean the end of Killy's quest then? About this, consider the Circular Hypothesis.
+The girl comments on how chromosomes 10 and 11 (11 and 12 in the German edition) show slight mutations.
+
+[Animal] Animals are not often seen in Nihei's works. In Blame! we see manta rays and a dog. This dog however seem to have an implant on its head.
+
+[World] Killy has a book and reads a passage from it aloud. This indicates that Killy can read. The other character's reaction tells us that printed material is unknown. The passage has been translated as "When the Earth, cold and calm, clears, a shadow climbed the hill..." (a figure climed the hill in the Italian translation). If it is a quote from an actual book, I couldn't find it, the tense sequence is however quite peculiar. Killy doesn't know what "Earth" is. We're led to believe that the immense artificial structure in which they live doesn't allow to see the perspective of being on a planet (assuming they are).
+
+[World] "It's getting dark" says the female character looking up. We're then aware that light reaches this part of the world \ universe. Why is it important that it's getting dark?
+
+[Character] Killy doesn't answer to the other character's offer to help him climb the structure. As mentioned, Killy is often emotionless. According to the Circular Hypothesis, this emotionless reaction could be explained by the shock from the loss of the child Killy was supposed to protect.
+
+[Narration] The girl tells Killy that there's a human settlements "3000 levels up". It's safe to assume Killy is moving in that direction from now on
+
+
 ## Chapter 3
 
 [World] Helmet design is similar to other works (Biomega, Abara, Knights of Sidonia) [IMAGE NEEDED]
@@ -820,9 +871,9 @@ title: Commentary
 
 ## Chapter 65
 
-[World] It's raining. Due to the size of the city, it might no be inconceivable that it grew an athmosphere on its outside, just like a planet does
+[World] It's raining. Due to the size of the city, it might not be inconceivable that it grew an athmosphere on its outside, just like a planet does
 
-[Narration] Killy is flushed out through a system of drainage pipes. Through it, he reaches the outside of the city where the sphere activates
+[Narration] Killy is flushed out through a system of drain pipes. Through it, he reaches the outside of the city where the sphere activates
 
 [Character] The last two panels show Killy with a kid in a gas mask. We can assume this is Cibo and Sanakan's child. From what Killy needs to protect him, it's unknown
 
