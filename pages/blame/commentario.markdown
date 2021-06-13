@@ -37,14 +37,16 @@ title: Commentary
 
 [Character] A new character is introduced. We know they arranged this meeting but we don't know anything else about their relationship. When she calls to arrange the shipment of the kid, the girl says "I got it from Killy", indicating that Killy is known to others.
 
-[World] The female character wears a suit before exiting the elevator. Why?
+[World] The female character wears a suit before exiting the elevator. Why? In the short story that inspired this chapter, the main character often has to wear and undress of a special suit.
 
 [Narration] The comments on the kid's genetics make us believe that he's not been infected, possibly that he might have an intact net gene (why else would Killy escort him?). Wouldn't his retrieval mean the end of Killy's quest then? About this, consider the Circular Hypothesis.
 The girl comments on how chromosomes 10 and 11 (11 and 12 in the German edition) show slight mutations.
 
-[Animal] Animals are not often seen in Nihei's works. In Blame! we see manta rays and a dog. This dog however seem to have an implant on its head.
+[Animal] Animals are not often seen in Nihei's works. In Blame! we see manta rays, fish, and a dog. This dog however seem to have an implant on its head.
 
-[World] Killy has a book and reads a passage from it aloud. This indicates that Killy can read. The other character's reaction tells us that printed material is unknown. The passage has been translated as "When the Earth, cold and calm, clears, a shadow climbed the hill..." (a figure climed the hill in the Italian translation). If it is a quote from an actual book, I couldn't find it, the tense sequence is however quite peculiar. Killy doesn't know what "Earth" is. We're led to believe that the immense artificial structure in which they live doesn't allow to see the perspective of being on a planet (assuming they are).
+[World] Killy has a book and reads a passage from it aloud. This indicates that Killy can read. The other character's reaction tells us that printed material is unknown. The passage has been translated as "When the Earth, cold and calm, clears, a shadow climbed the hill..." (a figure climbed the hill in the Italian translation). This is a passage from the short story "The snows are melted, the snows are gone" by James Tiptree Jr. alias of Alice Sheldon. This short story has been published in a book called "Ten thousand light-years from home", we can assume this is the book Killy is holding. Interestingly this book narrates the story of a girl with a dog, they're part of an organization trying to gather Y chromosomes in a futuristic Ethiopia.
+
+[World] Killy doesn't know what "Earth" is. We're led to believe that the immense artificial structure in which they live doesn't allow to see the perspective of being on a planet (assuming they are).
 
 [World] "It's getting dark" says the female character looking up. We're then aware that light reaches this part of the world \ universe. Why is it important that it's getting dark?
 
@@ -845,7 +847,7 @@ The girl comments on how chromosomes 10 and 11 (11 and 12 in the German edition)
 
 [Meta] This chapter only has one sentence "Cibo, our child is safe"
 
-[Meta] This sentence might be why some people say that the child was made by Cibo and Sanakan. The presence of both should not be interpreted in a human reproductive sense, but rather from the fact that there was no clear distinction between Cibo and Sanakan when Cibo-consciousness downloaded the Level-9 safeguard
+[Meta] This sentence might be why some people say that the child was made by Cibo and Sanakan. This sentence should be interepreted more literally than one would think, since in a later chapter we learn that the child has chromosomes from both
 
 ## Chapter 63
 
@@ -868,6 +870,8 @@ The girl comments on how chromosomes 10 and 11 (11 and 12 in the German edition)
 [World] This means that the Mori-stick predates the pandemic
 
 [Narration] We can assume the Mori-stick was damaged in the fight against the high-level exterminator. From the girl we learn that the Authority is guiding Killy to the edge of the city. The fact that the Authority would know of such a place is surprising, since in chapter 11 a representative of the Authority said they can't even know the size of it
+
+[World] The girl is aware of the genetic make up of the child
 
 ## Chapter 65
 
